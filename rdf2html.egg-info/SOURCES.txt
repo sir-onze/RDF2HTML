@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.py
+html/classes.html
+html/close_header.html
+html/data_props.html
+html/datatypes.html
+html/header.html
+html/individuals.html
+html/info.html
+html/object.html
+rdf2html/__init__.py
+rdf2html/translator.py
+rdf2html.egg-info/PKG-INFO
+rdf2html.egg-info/SOURCES.txt
+rdf2html.egg-info/dependency_links.txt
+rdf2html.egg-info/top_level.txt
